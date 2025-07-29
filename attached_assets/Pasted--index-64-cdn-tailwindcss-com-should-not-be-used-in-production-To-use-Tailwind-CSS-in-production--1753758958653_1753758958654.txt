@@ -1,0 +1,55 @@
+(index):64 cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation
+(anonymous) @ (index):64Understand this warning
+react-dom_client.js?v=34899ace:18249 Download the React DevTools for a better development experience: https://react.dev/link/react-devtools
+generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent:1  Failed to load resource: the server responded with a status of 400 ()Understand this error
+Dashboard.tsx:98 ApiError: {"error":{"code":400,"message":"API key not valid. Please pass a valid API key.","status":"INVALID_ARGUMENT","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]}}
+    at throwErrorIfNotOK (@google_genai.js?v=34899ace:12099:24)
+    at async @google_genai.js?v=34899ace:11888:7
+    at async Models.generateContent (@google_genai.js?v=34899ace:12919:16)
+    at async generateInsights (Dashboard.tsx:84:30)
+generateInsights @ Dashboard.tsx:98Understand this error
+generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent:1  Failed to load resource: the server responded with a status of 400 ()Understand this error
+Dashboard.tsx:98 ApiError: {"error":{"code":400,"message":"API key not valid. Please pass a valid API key.","status":"INVALID_ARGUMENT","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]}}
+    at throwErrorIfNotOK (@google_genai.js?v=34899ace:12099:24)
+    at async @google_genai.js?v=34899ace:11888:7
+    at async Models.generateContent (@google_genai.js?v=34899ace:12919:16)
+    at async generateInsights (Dashboard.tsx:84:30)
+generateInsights @ Dashboard.tsx:98Understand this error
+generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent:1  Failed to load resource: the server responded with a status of 400 ()Understand this error
+Dashboard.tsx:98 ApiError: {"error":{"code":400,"message":"API key not valid. Please pass a valid API key.","status":"INVALID_ARGUMENT","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]}}
+    at throwErrorIfNotOK (@google_genai.js?v=34899ace:12099:24)
+    at async @google_genai.js?v=34899ace:11888:7
+    at async Models.generateContent (@google_genai.js?v=34899ace:12919:16)
+    at async generateInsights (Dashboard.tsx:84:30)
+generateInsights @ Dashboard.tsx:98Understand this error
+generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent:1  Failed to load resource: the server responded with a status of 400 ()Understand this error
+Dashboard.tsx:98 ApiError: {"error":{"code":400,"message":"API key not valid. Please pass a valid API key.","status":"INVALID_ARGUMENT","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]}}
+    at throwErrorIfNotOK (@google_genai.js?v=34899ace:12099:24)
+    at async @google_genai.js?v=34899ace:11888:7
+    at async Models.generateContent (@google_genai.js?v=34899ace:12919:16)
+    at async generateInsights (Dashboard.tsx:84:30)
+generateInsights @ Dashboard.tsx:98Understand this error
+generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent:1  Failed to load resource: the server responded with a status of 400 ()Understand this error
+Dashboard.tsx:98 ApiError: {"error":{"code":400,"message":"API key not valid. Please pass a valid API key.","status":"INVALID_ARGUMENT","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]}}
+    at throwErrorIfNotOK (@google_genai.js?v=34899ace:12099:24)
+    at async @google_genai.js?v=34899ace:11888:7
+    at async Models.generateContent (@google_genai.js?v=34899ace:12919:16)
+    at async generateInsights (Dashboard.tsx:84:30)
+generateInsights @ Dashboard.tsx:98Understand this error
+generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent:1  Failed to load resource: the server responded with a status of 400 ()Understand this error
+Dashboard.tsx:98 ApiError: {"error":{"code":400,"message":"API key not valid. Please pass a valid API key.","status":"INVALID_ARGUMENT","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]}}
+    at throwErrorIfNotOK (@google_genai.js?v=34899ace:12099:24)
+    at async @google_genai.js?v=34899ace:11888:7
+    at async Models.generateContent (@google_genai.js?v=34899ace:12919:16)
+    at async generateInsights (Dashboard.tsx:84:30)
+generateInsights @ Dashboard.tsx:98Understand this error
+Login.tsx:29 Uncaught (in promise) TypeError: onLoginSuccess is not a function
+    at handleSubmit (Login.tsx:29:13)Understand this error
+generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent:1  Failed to load resource: the server responded with a status of 400 ()Understand this error
+Dashboard.tsx:98 ApiError: {"error":{"code":400,"message":"API key not valid. Please pass a valid API key.","status":"INVALID_ARGUMENT","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]}}
+    at throwErrorIfNotOK (@google_genai.js?v=34899ace:12099:24)
+    at async @google_genai.js?v=34899ace:11888:7
+    at async Models.generateContent (@google_genai.js?v=34899ace:12919:16)
+    at async generateInsights (Dashboard.tsx:84:30)
+generateInsights @ Dashboard.tsx:98Understand this error
+generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent:1  Failed to load resource: the server responded with a status of 400 ()
